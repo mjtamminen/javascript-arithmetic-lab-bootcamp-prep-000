@@ -21,3 +21,7 @@ console.log(n)
 
 dec(n)
 console.log(n)
+
+function makeInt(n) {
+  parseInt(n,10)
+}
