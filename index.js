@@ -16,3 +16,8 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
+inc(n)
+console.log(n)
+
+dec(n)
+console.log(n)
